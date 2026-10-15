@@ -1,0 +1,15 @@
+[
+  { "name": "bug", "color": "d73a4a", "description": "Algo no funciona como debería" },
+  { "name": "mejora", "color": "a2eeef", "description": "Nueva funcionalidad o mejora" },
+  { "name": "pregunta", "color": "d876e3", "description": "Consulta o duda sobre el proyecto" },
+  { "name": "documentación", "color": "0075ca", "description": "Cambios en README o documentación" },
+  { "name": "área: jugabilidad", "color": "5319e7", "description": "Reglas, piezas, líneas, niveles" },
+  { "name": "área: controles", "color": "1d76db", "description": "Teclado, rotación, movimiento" },
+  { "name": "área: interfaz", "color": "fbca04", "description": "HTML, CSS, canvas, overlay, textos" },
+  { "name": "área: puntuación", "color": "0e8a16", "description": "Score, líneas, niveles" },
+  { "name": "área: rendimiento", "color": "e99695", "description": "Bucle de juego, FPS, consumo" },
+  { "name": "prioridad: alta", "color": "b60205", "description": "Bloquea el juego o afecta a todos" },
+  { "name": "prioridad: media", "color": "ff9f1c", "description": "Importante pero no bloqueante" },
+  { "name": "prioridad: baja", "color": "c2e0c6", "description": "Menor o cosmético" },
+  { "name": "necesita-info", "color": "ededed", "description": "Falta información para diagnosticar" }
+]
